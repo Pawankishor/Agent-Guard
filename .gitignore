@@ -1,0 +1,18 @@
+# secrets / local state
+.env
+data/
+*.db
+*.db-wal
+*.db-shm
+demo_credentials.txt
+dev_hmac.key
+# generated artifacts
+reports/
+models/
+*.joblib
+*.pkl
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

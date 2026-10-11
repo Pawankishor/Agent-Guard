@@ -1,0 +1,5 @@
+# Runtime
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+streamlit>=1.35     # dashboard only; the security core does not import it
